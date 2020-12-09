@@ -8,4 +8,4 @@ Here you can download all versions of *White Pearl [2.0.3]* HTML++
 Responsive Development Kit (ResKit), made with Bootstrap Web Framework. 
 (CSS and Javascript).  
 
-Boostrap is available at: https://getbootstrap.com/ and the official HTML++ website: http://www.gabrielmargarido.ga/htmlpp
+Boostrap is available at: https://getbootstrap.com/ and HTML++ official website: http://www.gabrielmargarido.ga/htmlpp
